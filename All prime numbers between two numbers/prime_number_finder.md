@@ -1,4 +1,3 @@
-To create a Markdown file with the program, its explanation, and a flowchart, let's organize the document as follows:
 
 ---
 
